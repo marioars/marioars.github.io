@@ -1,10 +1,10 @@
 #services {
-    background-color: #24283D;
+    background-color: #FFFFFF;
     padding: 120px 0;
 }
 
 .services-box {
-    border: 1px solid #FDD05A;
+    border: 1px solid #F5F5F5;
     border-radius: 5px;
     width: 350px;
     min-height: 250px;
@@ -14,7 +14,7 @@
 }
 
 .box-title {
-    color: white;
+    color: #000;
     display: block;
     font-size: 20px;
     font-weight: 600;
